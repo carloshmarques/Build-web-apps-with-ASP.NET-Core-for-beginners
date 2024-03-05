@@ -5,7 +5,7 @@
 <div align="center">
   <!-- Change your logo -->
   <a href="https://github.com/carloshmarques/Build-web-apps-with-ASP">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@carloshmarques/Build-web-apps-with-ASP's logo">
+    <img width="100%" src="https://i.imgur.com/rj1HPjW.png" alt="@carloshmarques/Build-web-apps-with-ASP's logo">
   </a>
   <br>
   <a href="https://github.com/carloshmarques/Build-web-apps-with-ASP/issues">
