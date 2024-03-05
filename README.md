@@ -8,7 +8,7 @@
     <img width="100%" src="https://i.imgur.com/rj1HPjW.png" alt="@carloshmarques/Build-web-apps-with-ASP's logo">
   </a>
   <br>
-  <a href="https://github.com/carloshmarques/Build-web-apps-with-ASP/issues">
+  <a href="https://github.com/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners/issues">
     <img src="https://img.shields.io/github/issues/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners?color=0088ff&style=for-the-badge&logo=github" alt="carloshmarques/Build-web-apps-with-ASP's issues"/>
   </a>
   <a href="https://github.com/carloshmarques/Build-web-apps-with-ASP/pulls">
