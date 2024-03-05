@@ -68,7 +68,7 @@
 
 We are currently looking for new donators to help and maintain this project! ❤️
 
-By donating, you will help the development of this project, and *you will be featured in this Build-web-apps-with-ASP's README.md*, so everyone can see your kindness and visit your content ⭐.
+By donating, you will help the development of this project, and *you will be featured in this Build-web-apps-with-ASP.NET-Core-for-beginners's README.md*, so everyone can see your kindness and visit your content ⭐.
 
 <a href="https://github.com/sponsors/carloshmarques"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
   <img src="https://img.shields.io/github/issues-pr/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners?logo=github-sponsors&style=for-the-badge&color=red">
@@ -78,7 +78,7 @@ By donating, you will help the development of this project, and *you will be fea
 
 ---
 
-Build-web-apps-with-ASP was generated from *[Josee9988/project-template](https://github.com/Josee9988/project-template)* 📚
+Build-web-apps-with-ASP.NET-Core-for-beginners was generated from *[Josee9988/project-template](https://github.com/Josee9988/project-template)* 📚
 
 ---
 
@@ -88,7 +88,7 @@ Build-web-apps-with-ASP was generated from *[Josee9988/project-template](https:/
 
 ---
 
-## 🎉 Was the "Course made in microsoft learn website" helpful? Help us raise these numbers up
+## 🎉 Was the "Build-web-apps-with-ASP.NET-Core-for-beginners" helpful? Help us raise these numbers up
 
 [![GitHub followers](https://img.shields.io/github/followers/carloshmarques.svg?style=social)](https://github.com/carloshmarques)
 [![GitHub stars](https://img.shields.io/github/stars/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners.svg?style=social)](https://github.com/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners/stargazers)
