@@ -71,8 +71,9 @@ We are currently looking for new donators to help and maintain this project! ❤
 By donating, you will help the development of this project, and *you will be featured in this Build-web-apps-with-ASP.NET-Core-for-beginners's README.md*, so everyone can see your kindness and visit your content ⭐.
 
 <a href="https://github.com/sponsors/carloshmarques"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-  <img src="https://img.shields.io/github/issues-pr/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners?logo=github-sponsors&style=for-the-badge&color=red">
-</a>
+  <img alt= "logo" src="https://img.shields.io/badge/Sponsor-carloshmarques/carloshmarques-blue?logo=github-sponsors&style=for-the-badge&color=red">
+ </a>
+
 
 <!-- LINK TO YOUR DONATING PAGES HERE -->
 
