@@ -57,7 +57,7 @@
 ## 🍰 **Supporters and donators**
 
 <!-- Change your small logo -->
-<a href="https://github.com/carloshmarques/Build web-apps-with-ASP">
+<a href="https://github.com/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners/">
   <img alt="@carloshmarques/Build web-apps-with-ASP's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
 </a>
 
