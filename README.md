@@ -87,9 +87,9 @@ Build-web-apps-with-ASP was generated from *[Josee9988/project-template](https:/
 ## 🎉 Was the "Course made in microsoft learn website" helpful? Help us raise these numbers up
 
 [![GitHub followers](https://img.shields.io/github/followers/carloshmarques.svg?style=social)](https://github.com/carloshmarques)
-[![GitHub stars](https://img.shields.io/github/stars/carloshmarques/Build-web-apps-with-ASP.svg?style=social)](https://github.com/carloshmarques/Build-web-apps-with-ASP/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/carloshmarques/Build-web-apps-with-ASP.svg?style=social)](https://github.com/carloshmarques/Build-web-apps-with-ASP/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/carloshmarques/Build-web-apps-with-ASP.svg?style=social)](https://github.com/carloshmarques/Build-web-apps-with-ASP/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners.svg?style=social)](https://github.com/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners.svg?style=social)](https://github.com/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners.svg?style=social)](https://github.com/carloshmarques/Build-web-apps-with-ASP.NET-Core-for-beginners/network/members)
 <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=github-sponsors&color=red&style=social)](https://github.com/sponsors/carloshmarques)
 
