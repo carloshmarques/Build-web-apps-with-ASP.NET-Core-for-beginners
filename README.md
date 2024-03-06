@@ -21,17 +21,29 @@
 ## 🤔 **About the project**
 
 <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
-## Get started with web development using ASP.NET Core. In this beginner-friendly pathway, you'll learn the basics of C#, HTML, Razor Pages, and more!
+## Get started with web development using ASP.NET Core. In this beginner-friendly pathway, you'll learn the basics of C#, HTML, Razor Pages, and more
+
 ### Prerequisites
+
 * <a href="https://dotnet.microsoft.com/en-us/download" target="_blank">Local installation of .NET SDK</a>
-
-
 ---
 
 ## ⚡ **Installation**
+ <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+### Module-01
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+* I all ready done this module see REDAME.md in module-01
 
+### Module-02
+
+#### Prerequisites
+
+* Microsoft Visual Studio Code
+* Familiarity with one or more programming languages and a markup language such as HTML
+* A computer that's running one of the following operating systems:
+* Windows: Windows 10 or 11
+* Mac: macOS 10.15 or later
+* Linux: Ubuntu, Debian, Red Hat, Fedora, or SUSE
 ---
 
 ## 🚀 **Usage**
