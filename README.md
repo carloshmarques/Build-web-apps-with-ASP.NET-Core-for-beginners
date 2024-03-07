@@ -48,7 +48,7 @@
 
 ## 🚀 **Usage**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
+<!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
 
 ---
 
