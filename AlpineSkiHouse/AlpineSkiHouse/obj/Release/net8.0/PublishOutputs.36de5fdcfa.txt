@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-web-apps-with-ASP.NET-Core-for-beginners\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-web-apps-with-ASP.NET-Core-for-beginners\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-web-apps-with-ASP.NET-Core-for-beginners\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-web-apps-with-ASP.NET-Core-for-beginners\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.dll
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-web-apps-with-ASP.NET-Core-for-beginners\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.deps.json
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-web-apps-with-ASP.NET-Core-for-beginners\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.runtimeconfig.json
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-web-apps-with-ASP.NET-Core-for-beginners\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.pdb

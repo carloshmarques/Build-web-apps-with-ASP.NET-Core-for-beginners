@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D73EB-61B1-40F0-8A87-93689DF5C0C5}|AlpineSkiHouse\\AlpineSkiHouse.csproj|c:\\users\\carlo\\onedrive\\documentos\\github\\master\\build-web-apps-with-asp.net-core-for-beginners\\alpineskihouse\\alpineskihouse\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5D73EB-61B1-40F0-8A87-93689DF5C0C5}|AlpineSkiHouse\\AlpineSkiHouse.csproj|solutionrelative:alpineskihouse\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D73EB-61B1-40F0-8A87-93689DF5C0C5}|AlpineSkiHouse\\AlpineSkiHouse.csproj|c:\\users\\carlo\\onedrive\\documentos\\github\\master\\build-web-apps-with-asp.net-core-for-beginners\\alpineskihouse\\alpineskihouse\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5D73EB-61B1-40F0-8A87-93689DF5C0C5}|AlpineSkiHouse\\AlpineSkiHouse.csproj|solutionrelative:alpineskihouse\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml",
+              "RelativeToolTip": "AlpineSkiHouse\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T20:08:21.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "AlpineSkiHouse\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T20:07:30.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
