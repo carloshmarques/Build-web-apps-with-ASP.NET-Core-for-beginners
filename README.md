@@ -16,11 +16,11 @@
   </a>
 </div>
 
----
+<!---
 
 ## 🤔 **About the project**
 
-<!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
+<!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] --
 ## Get started with web development using ASP.NET Core. In this beginner-friendly pathway, you'll learn the basics of C#, HTML, Razor Pages, and more
 
 ### Prerequisites
@@ -29,7 +29,7 @@
 ---
 
 ## ⚡ **Installation**
- <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+ <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] --
 ### Module-01
 
 * I all ready done this module see REDAME.md in module-01
@@ -48,13 +48,13 @@
 
 ## 🚀 **Usage**
 
-<!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
+<!-- ... [SHOW HOW YOUR PROJECT IS USED] --
 
 ---
 
 ## 🌲 **Project tree**
 
-<!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] -->
+<!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] --
 
 ---
 
@@ -62,7 +62,7 @@
 
 * <!-- ... [ADD ADDITIONAL NOTES] -->
 
----
+<!---
 
 ## 📸 **Screenshots**
 
