@@ -18,34 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml",
-              "RelativeToolTip": "AlpineSkiHouse\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-08T20:08:21.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "AlpineSkiHouse\\Pages\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-08T20:07:30.293Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -69,6 +43,35 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml",
+              "RelativeToolTip": "AlpineSkiHouse\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T20:08:21.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Build-web-apps-with-ASP.NET-Core-for-beginners\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "AlpineSkiHouse\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T20:07:30.293Z"
             }
           ]
         }
